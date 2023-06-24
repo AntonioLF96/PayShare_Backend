@@ -1,0 +1,15 @@
+# Ignora i file di configurazione di sistema
+.DS_Store
+Thumbs.db
+
+# Ignora i file di dipendenze o pacchetti
+/venv/
+/node_modules/
+
+# Ignora i file di build o output
+/build/
+/dist/
+/out/
+
+# Ignora le cartelle
+.idea/
