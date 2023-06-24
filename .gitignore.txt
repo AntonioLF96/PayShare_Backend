@@ -13,3 +13,17 @@ Thumbs.db
 
 # Ignora le cartelle
 .idea/
+
+# Ignora tutti i file non versionati
+**/.*
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+**/*.swp
+**/*.swo
+**/*.log
+**/*.db
+**/media/
+**/static/
+**/node_modules/
